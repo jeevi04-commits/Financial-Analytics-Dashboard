@@ -24,7 +24,7 @@ This project is a Financial Sales Dashboard created using Power BI. It helps ana
 - Monthly sales show a decreasing trend over time.
 
 ## Files Included
-- Financial_Sales_Dashboard
+- Financial_Sales_Dashboard.pbix
 - README.md
 - Financial_Analysis_Report.pdf
 
